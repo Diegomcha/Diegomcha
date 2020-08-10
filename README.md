@@ -9,4 +9,4 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true You're amazed eh... 😊)
+![Stats](https://github-readme-stats.vercel.app/api?username=diegomcha&show_icons=true You're amazed eh... 😊)
