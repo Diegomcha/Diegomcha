@@ -11,4 +11,9 @@ I'm **Not Found**. I live in your **heart** and... yeah that's pretty much it. B
 
 ## Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegomcha&show_icons=true&count_private=true)
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue&hide=prs" />
+</a>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomcha&theme=vue&show_icons=true&count_private=true" />
+</a>
