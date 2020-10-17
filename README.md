@@ -1,13 +1,13 @@
 # Welcome to my profile
 
-I'm **Not Found**. I live in your **heart** and... yeah that's pretty much it. Bye.
+I'm **Diegomcha**. I live in your **heart** and... yeah that's pretty much it. Bye.
 
 ## Some facts about me
 
-- 🛠 I’m currently working on [QuantumRP](https://quantumrp.glitch.me/).
+- 🛠 I’m currently working on [QuantumRP](https://quantumrp.netlify.app/).
 - 🔭 I’m currently learning a little bit of everything *(Nah I'm kidding)*.
-- 📫 You can reach me throught Discord: *Cat Found#0200*.
-- ⚡ Fun fact: **I'm dumb 😀**.
+- 📫 You can reach me throught Discord: *Cat Found#2789*.
+- ⚡ Fun fact: **I'm not fun**.
 
 ## Stats
 
