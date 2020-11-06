@@ -4,7 +4,7 @@ I'm **Diegomcha**. I live in your **heart** and... yeah that's pretty much it. B
 
 ## Some facts about me
 
-- 🛠 I’m currently working on [QuantumRP](https://quantumrp.netlify.app/).
+- 🛠 I’m currently working on <a href="https://quantumrp.netlify.app/" target="_blank">QuantumRP</a>.
 - 🔭 I’m currently learning a little bit of everything *(Nah I'm kidding)*.
 - 📫 You can reach me throught Discord: *Acoustic Cat#2789*.
 - ⚡ Fun fact: **I'm not fun**.
