@@ -1,6 +1,4 @@
-# Welcome to my profile
-
-I'm **Diegomcha**. I live in your **heart** and... yeah that's pretty much it. Bye.
+<h1 align="center">Welcome to my profile</h1>
 
 ## Some facts about me
 
@@ -11,8 +9,8 @@ I'm **Diegomcha**. I live in your **heart** and... yeah that's pretty much it. B
 
 ## Stats
 <a href="https://open.spotify.com/user/diegomcha">
-  <img align="right" width="50%" src="https://diegomcha-9uxknhmu7.vercel.app/api/spotify" />
+  <img align="right" width="48%" src="https://diegomcha-9uxknhmu7.vercel.app/api/spotify" />
 </a>
 <a href="#">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
 </a>
