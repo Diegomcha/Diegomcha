@@ -10,10 +10,9 @@ I'm **Diegomcha**. I live in your **heart** and... yeah that's pretty much it. B
 - ⚡ Fun fact: **It takes me more than 5 hours to make a PowerPoint 😔**.
 
 ## Stats
-
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
+<a href="https://open.spotify.com/user/diegomcha">
+  <img align="right" width="50%" src="https://diegomcha-9uxknhmu7.vercel.app/api/spotify" />
 </a>
-<!-- <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomcha&theme=vue-dark&show_icons=true&count_private=true" />
-</a> -->
+<a href="#">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
+</a>
