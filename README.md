@@ -9,11 +9,11 @@
 
 ## Stats
 <a href="#">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
 </a>
 
 
-<a href="#">
+<a href="https://wakatime.com/@Diegomcha">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diegomcha&theme=vue-dark&hide_title=true" />
 </a>
 
