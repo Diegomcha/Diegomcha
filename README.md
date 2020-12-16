@@ -11,9 +11,12 @@
 <a href="#">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=vue-dark&hide=prs" />
 </a>
+
+
 <a href="#">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diegomcha&theme=vue-dark&hide_title=true" />
 </a>
+
 <a href="https://open.spotify.com/user/diegomcha">
   <img width="100%" src="https://diegomcha-9uxknhmu7.vercel.app/api/spotify" />
 </a>
