@@ -14,7 +14,7 @@
 
 
 <a href="https://wakatime.com/@Diegomcha">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegomcha&theme=vue-dark&custom_title=Time Coding Stats" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegomcha&theme=vue-dark&custom_title=Time%20Coding%20Stats" />
 </a>
 
 <a href="https://open.spotify.com/user/diegomcha">
