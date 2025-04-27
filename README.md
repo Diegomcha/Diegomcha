@@ -3,7 +3,7 @@
 ## Some facts about me
 
 - 🛠 I've worked on <a href="https://quantumrp.netlify.app/" target="_blank">QuantumRP</a> & <a href="https://discordsafe.com/" target="_blank">D-Safe</a>.
-- 🔭 I’m currently studying a Computer Science degree.
+- 🔭 I’m currently studying a Software Engineering degree.
 - 📫 You can reach me through Discord: *@cattiwi*.
 - ⚡ Fun fact: **It takes me more than 5 hours to make a PowerPoint 😔**.
 
