@@ -16,3 +16,5 @@
 <a href="https://wakatime.com/@Diegomcha">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegomcha&theme=github_dark&custom_title=Time%20Coding%20Stats&langs_count=5&hide_border=true" />
 </a>
+
+![Metrics](/github-metrics.svg)

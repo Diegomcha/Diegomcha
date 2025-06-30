@@ -29,6 +29,6 @@ jobs:
           # Habits
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic
           plugin_habits_trim: yes
 
