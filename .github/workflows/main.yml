@@ -17,3 +17,18 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Madrid
+          config_display: columns
+          base_indepth: yes
+          # WakaTime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKA_KEY }}
+          # Lines
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+          # Habits
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
+
