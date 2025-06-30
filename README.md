@@ -8,13 +8,20 @@
 - ⚡ Fun fact: **It takes me more than 5 hours to make a PowerPoint 😔**.
 
 ## Stats
-![Metrics](/github-metrics.svg)
 
-<!-- <a href="#">
+<a href="#">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=diegomcha&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 
-
 <a href="https://wakatime.com/@Diegomcha">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegomcha&theme=github_dark&custom_title=Time%20Coding%20Stats&langs_count=5&hide_border=true" />
+</a>
+
+<!-- <a href="https://open.spotify.com/user/diegomcha">
+  <img width="100%" src="https://diegomcha.vercel.app/api/spotify" />
 </a> -->
+
+<a href="#">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</a>
+
