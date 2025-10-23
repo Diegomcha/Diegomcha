@@ -4,6 +4,10 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # Run workflow manually
   workflow_dispatch:
+  # Run on push to master branch
+  push:
+    branches:
+      - master
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
