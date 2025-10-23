@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Diegomcha/gh-metrics
+      - uses: Diegomcha/gh-metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Madrid
