@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 1"}]
   # Run workflow manually
   workflow_dispatch:
   # Run on push to master branch
@@ -10,6 +10,7 @@ on:
       - master
 jobs:
   github-metrics:
+    timeout-minutes: 15
     runs-on: ubuntu-latest
     environment: 
       name: prod
